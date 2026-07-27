@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nassim Saii
+# 👋 Hi, I'm Nassim Sai
 
 🎓 **Final-Year Network & System Security Engineering Student** — TEK-UP University
 🔐 **Interested in Cloud/Kubernetes Security, Offensive Security, Network Defense, and Security Standards**
