@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nassim Sai
 
-🎓 **Final-Year Network & System Security Engineering Student** — TEK-UP University
-🔐 **Interested in Cloud/Kubernetes Security, Offensive Security, Network Defense, and Security Standards**
-💻 **Python · Kubernetes/OpenShift · Docker · Linux · GNS3 · OpenWRT · ISO 27001 · CCNA**
+🎓 **Network & Cloud Security Engineer** — Engineering Degree in Computer Systems and Network Security, TEK-UP University (2023–2026)
+🔐 **Focused on Kubernetes/OpenShift Security, SOC & SIEM, Cloud Security (Azure), and Network Defense**
+💻 **Python · Kubernetes/OpenShift · Docker · Linux · pfSense/GNS3 · OpenWRT · ISO 27001 · CCNA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nassim--saii-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-saii/)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-nassimsai-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/nassimsai)
