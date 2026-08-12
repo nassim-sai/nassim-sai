@@ -28,7 +28,7 @@ Combines **OVN-Kubernetes flow analysis**, **statistical + ML anomaly detection*
 
 ### 🧠 About Me
 
-I'm a cybersecurity student with strong hands-on experience in **networking, cloud/container security, and security analysis**. My work bridges theory and real-world implementation — from Kubernetes-native security platforms to ISO 27001–aligned monitoring architectures and secure network infrastructure.
+I'm a network and cloud security engineer with hands-on experience in **networking, cloud/container security, and security analysis**. My work bridges theory and real-world implementation — from Kubernetes-native security platforms to ISO 27001–aligned monitoring architectures and secure network infrastructure.
 
 I actively work with **Kubernetes/OpenShift**, **Linux environments**, **Python**, and **network simulation tools** to design and demonstrate security concepts such as anomaly detection, NetworkPolicy compliance, access control, and secure architecture design.
 
